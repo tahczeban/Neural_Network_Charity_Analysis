@@ -13,7 +13,13 @@ IMAGE obtained from: https://www.google.com/search?q=neural+network+png&client=s
 ______________
 ***OVERVIEW:***
  In this challenge, 
- ANN artificial neural networks, algos recognizing patterns and features of input aretareareare -------------
+ ANN artificial neural networks, algos recognizing patterns and features of input aretareareare -------------`
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 ______________
