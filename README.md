@@ -130,9 +130,9 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 4) Alterations to hidden layers, neurons and activation functions were completed as follows:
 
-   -changed the number of hidden layers from 2: to 4 (to increase mathematical functions to attempt to improve output      accuracy)
+   -changed the number of hidden layers from 2: to 4 (to increase mathematical functions to attempt to improve output accuracy)
    
-   - changed number of nodes from 50, 20 to: 100, 50 (to attempt to increase perceptrons with weighted input connections                                                           combinations to improve output accuracy)
+   - changed number of nodes from 50, 20 to: 100, 50 (to attempt to increase perceptrons with weighted input connections combinations to improve accuracy)
 
    - changed activation functions from relu, relu to: sigmoid, linear (for attempted improved learning of patternsto improve output accuracy)
 
