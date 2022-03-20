@@ -15,15 +15,25 @@ ______________
  In this challenge, 
  ANN artificial neural networks, algos recognizing patterns and features of input are and give a quantitative output
  
- 
- 
- 
- 
- 
+ <img width="1423" alt="DEL1-counts of APPLICATION_TYPE" src="https://user-images.githubusercontent.com/90135381/159174868-b1404df2-76f7-4deb-b979-cc2a54099553.png">
 
+ <img width="1407" alt="DEL1-counts of CLASSIFICATION" src="https://user-images.githubusercontent.com/90135381/159174870-00f748b7-d1ed-4674-b126-3abea486c575.png">
 
 ______________
 ***RESULTS:***
+
+
+<img width="1378" alt="DEL1-DF" src="https://user-images.githubusercontent.com/90135381/159174876-27c861d8-117a-485c-90d4-6a38eb667005.png">
+
+
+<img width="1411" alt="DEL2-model evaluation" src="https://user-images.githubusercontent.com/90135381/159174883-cfd5c259-57b6-4ea8-a888-ec7ffabcb750.png">
+
+
+
+<img width="1420" alt="DEL2-saved weights:5 epochs" src="https://user-images.githubusercontent.com/90135381/159174889-bf362d6e-0c91-4901-ad60-5fe9a1bff699.png">
+
+
+
 
 
 _______________
