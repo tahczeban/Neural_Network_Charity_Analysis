@@ -104,23 +104,25 @@ A callback was again created to save the weights every 5 epochs and the results 
                          FIGURE 11: Accuracy/Loss
 
 _______________
-***DELIVERABLE 4: WRITTEN REPORT/SUMMARY****
+***DELIVERABLE 4: WRITTEN REPORT/SUMMARY***
 
 For this last Deliverable an analysis of the ML model was complied with the following 6 considerations:
 
-##DATA PREPROCESSING
-1) target variables= "IS_SUCCESSFUL"
-2)feature variables= the other columns: APPLICATION_TYPE, CLASSIFICATION, AFFILIATION, ORGANIZATION. STSTUS, INCOME_AMT, ASK_AMT
-3)Neither targets nor feratures and should be removed
+**DATA PREPROCESSING**
 
-##COMPILING, TRAINING and EVALUATING THE MODEL
+1) The target variable is in: "IS_SUCCESSFUL"
+2) The features variables are: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+3) The variables that should be removed are: "EIN" and "NAME"
+
+**COMPILING, TRAINING and EVALUATING THE MODEL**
+
 4)Selected #neurons because
 5) I was not able to acheive target level performance
 6) Steps taken to attempt to increase model performance were:
 
 In conclusion, after three attempts, still unable to attain 75% or higher accuracy
 
-Recommendations:
+Possible Recommendations:
 could increase hidden layers
 increase dataset size
 try Random Forest Classifier to reduce potential for outlier influence
