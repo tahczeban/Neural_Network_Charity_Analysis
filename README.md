@@ -28,18 +28,19 @@ In this challenge,
 ______________
 ***RESULTS:***
 
-target variables=
-feature variables=
+
+
+***DELIVERABLE 1: PREPROCESSING DATA FOR A NEURAL NETWORK MODEL***
 <img width="1378" alt="DEL1-DF" src="https://user-images.githubusercontent.com/90135381/159174876-27c861d8-117a-485c-90d4-6a38eb667005.png">
 
-
+***DELIVERABLE 2: COMPILE, TRAIN, EVALUATE THE MODEL***
 <img width="1411" alt="DEL2-model evaluation" src="https://user-images.githubusercontent.com/90135381/159174883-cfd5c259-57b6-4ea8-a888-ec7ffabcb750.png">
 
 
 
 <img width="1420" alt="DEL2-saved weights:5 epochs" src="https://user-images.githubusercontent.com/90135381/159174889-bf362d6e-0c91-4901-ad60-5fe9a1bff699.png">
 
-
+***DELIVERABLE 3: OPTIMIZE THE MODEL***
 <img width="1431" alt="DEL3-1change hidden layers" src="https://user-images.githubusercontent.com/90135381/159175470-9ea6a35b-7564-4e81-9662-c4420ed9d51a.png">
 
 
@@ -61,11 +62,19 @@ feature variables=
 <img width="1421" alt="DEL3-3" src="https://user-images.githubusercontent.com/90135381/159175523-951fcc25-611d-4520-8911-3453aa85a4bb.png">
 
 _______________
-***SUMMARY****
+***DELIVERABLE 4: WRITTEN REPORT/SUMMARY****
 
 In conclusion, after three attempts, still unable to attain 75% or higher accuracy
-could use random forest classifier to increase decision trees
 
+1) target variables= "IS_SUCCESSFUL"
+2)feature variables= the other columns: APPLICATION_TYPE, CLASSIFICATION, AFFILIATION, ORGANIZATION. STSTUS, INCOME_AMT, ASK_AMT
+3)Neither targets nor feratures and should be removed
+4)Selected #neurons because
+5) I was not able to acheive target level performance
+6) Steps taken to attempt to increase model performance were:
 
+Recommendations:
+could increase hidden layers
+increase dataset size
 _______________
 ***REFERENCES:***. BCS, Google, Stackoverflow, GitHub
