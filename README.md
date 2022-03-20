@@ -14,13 +14,21 @@ SOFTWARE: Jupyter Notebook, Python/VSC, Google Colab: Limitations of this challe
 ______________
 ***OVERVIEW:***
 
+In this challenge, a contribution to help Beks with investment placement predictions for Alphabet Soup is implemented with the utilization of ANN artificial neural network and Machine Learning (ML). Algorithms will be created to recognize what the patterns and features of input are and then give a quantitative output/binary classifier, in order to predict the success of the applicant if funded by Alphabet Soup. The steps necessary to complete this task are as follows:
+1. Preprocess the data data
+2. compile, train and evaluate model
+3. then attempt to optimize it for improved accuracy
+4. Lastly compose a written analysis of the model
 
 
-In this challenge, 
- ANN artificial neural networks, algos recognizing patterns and features of input are and give a quantitative output
- 
- preprocess data
- compile, train and evaluate model, then attempt to optimize it for improved accuracy
+______________
+***RESULTS:***
+
+
+
+***DELIVERABLE 1: PREPROCESSING DATA FOR A NEURAL NETWORK MODEL***
+
+
  <img width="1423" alt="DEL1-counts of APPLICATION_TYPE" src="https://user-images.githubusercontent.com/90135381/159174868-b1404df2-76f7-4deb-b979-cc2a54099553.png">
 
                       FIGURE 1: Counts of "APPLICATION_TYPE"
@@ -30,14 +38,11 @@ In this challenge,
  
                       FIGURE 2: Counts of "CLASSIFICATION"
 
-______________
-***RESULTS:***
-
-
-
-***DELIVERABLE 1: PREPROCESSING DATA FOR A NEURAL NETWORK MODEL***
 
 <img width="1378" alt="DEL1-DF" src="https://user-images.githubusercontent.com/90135381/159174876-27c861d8-117a-485c-90d4-6a38eb667005.png">
+
+
+
 
                        FIGURE 3: DataFrame
 
