@@ -13,7 +13,7 @@ IMAGE obtained from: https://www.google.com/search?q=neural+network+png&client=s
 
 *SOFTWARE:* Jupyter Notebook/Pandas, Python/VSC, Google Colab: 
 
-Limitations of this challenge: M1 processor incompatible with Tensorflow installation; therefore, challenge completed on Google Colab, per instructional team.
+Limitations of this challenge: M1 processor incompatible with Tensorflow installation on Jupyter Notebook; therefore, challenge completed on Google Colab, per instructional team.
 ______________
 ***OVERVIEW:***
 
@@ -51,6 +51,11 @@ For this Deliverable, Pandas and Scikit-Learn's StandardScaler() were implemente
                        FIGURE 3: DataFrame
 
 ***DELIVERABLE 2: COMPILE, TRAIN, EVALUATE THE MODEL***
+
+Pandas was supposed to be utilized for this Deliverable for ML design with TensorFlow; however, there were complications with installation due to M1 processor incompatibility despite attempted resolutions from Stackoverflow; therefore, the same model design was completed on Google Colab (per instructional team suggestion). A predictive binary classification model was designed to determine success of Alphabet Soup funding based on features from the data. The number of features and nodes for each layer
+
+
+
 <img width="1411" alt="DEL2-model evaluation" src="https://user-images.githubusercontent.com/90135381/159174883-cfd5c259-57b6-4ea8-a888-ec7ffabcb750.png">
 
                        FIGURE 4: Model evaluation
