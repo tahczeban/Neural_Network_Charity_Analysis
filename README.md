@@ -108,7 +108,7 @@ _______________
 
 For this last Deliverable an analysis of the ML model was complied with the following 6 considerations:
 
-**DATA PREPROCESSING**
+**DATA PREPROCESSING:**
 
 1) The target variable is in: "IS_SUCCESSFUL" (which depicts if successful with Alphabet Soup funding)
 2) The features variables are:
@@ -123,13 +123,17 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 - ASK_AMT (funding requested)
 3) The variables that should be removed are as they are neither targets nor features are: "EIN" and "NAME"
 
-**COMPILING, TRAINING and EVALUATING THE MODEL**
+**COMPILING, TRAINING and EVALUATING THE MODEL:**
 
 4) 
-5) No, I was not able to acheive the target model performance of 75%. The model
+5) No, I was not able to acheive the target model performance of 75%. The models created yielded the following parameters, model_loss and Accuracy:
+
  original: params=3,291/model loss=0.5564/Accuracy=0.7254
+ 
  change hidden layers: params= 3,911/model loss=0.5553/Accuracy=0.7251
+ 
  change # nodes:params=9,601/model loss=0.5570/Accuracy=0.7249
+ 
  change activation function:params=3291/model loss=0.5533/Accuracy=0.7243
 
 6) In conclusion, after three attempts, the ML model was still unable to attain 75% or higher accuracy, despite the steps of increasing hidden layers, # of nodes and activation functions to improve model performance.
