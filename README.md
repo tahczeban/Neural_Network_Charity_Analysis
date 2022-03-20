@@ -127,7 +127,7 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 4) 
 5) No, I was not able to acheive the target model performance of 75%. The model
- original: params=/model loss=0.5564/Accuracy=0.7254
+ original: params=3,291/model loss=0.5564/Accuracy=0.7254
  change hidden layers: params= 3,911/model loss=0.5553/Accuracy=0.7251
  change # nodes:params=9,601/model loss=0.5570/Accuracy=0.7249
  change activation function:params=3291/model loss=0.5533/Accuracy=0.7243
