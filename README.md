@@ -52,7 +52,7 @@ For this Deliverable, Pandas and Scikit-Learn's StandardScaler() were implemente
 
 ***DELIVERABLE 2: COMPILE, TRAIN, EVALUATE THE MODEL***
 
-Pandas was supposed to be utilized for this Deliverable for ML design with TensorFlow; however, there were complications with installation due to M1 processor incompatibility despite attempted resolutions from Stackoverflow; therefore, the same model design was completed on Google Colab (per instructional team suggestion). A predictive binary classification model was designed to determine success of Alphabet Soup funding based on features from the data. The number of features and nodes for each layer
+Pandas was supposed to be utilized for this Deliverable for ML design with TensorFlow; however, there were complications with installation due to M1 processor incompatibility despite attempted resolutions from Stackoverflow; therefore, the same model design was completed on Google Colab (per instructional team suggestion). A predictive binary classification model was designed to determine success of Alphabet Soup funding based on features from the data. The number of features and nodes for each layer, as well as the activation functions. An output layer with it's associated activation function  was then created, model structure was checked, complied and training was introduced. A callback was created, saving the model's weights every 5 epochs and the model was evaluated. Finally, the results were exported to an HDF5 file and renamed.
 
 
 
