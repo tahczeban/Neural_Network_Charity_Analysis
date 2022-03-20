@@ -127,6 +127,12 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 4) Alterations to hidden layers, neurons and activation functions were completed as follows:
 
+   -changed the number of hidden layers from:
+   
+   - changed number of nodes from:
+
+   - changed activation functions from: 
+
 5) No, I was not able to acheive the target model performance of 75%. The models created yielded the following parameters, model_loss and Accuracy:
 
      original: params=3,291/model loss=0.5564/Accuracy=0.7254
@@ -142,7 +148,9 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 Possible Recommendations:
 
 -could further increase the number of hidden layers
+
 -possibly increase dataset size, if feasible
+
 -try Random Forest Classifier with increaedto reduce potential for outlier influence
 
 _______________
