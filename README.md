@@ -110,17 +110,29 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 **DATA PREPROCESSING**
 
-1) The target variable is in: "IS_SUCCESSFUL"
-2) The features variables are: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
-3) The variables that should be removed are: "EIN" and "NAME"
+1) The target variable is in: "IS_SUCCESSFUL" (which depicts if successful with Alphabet Soup funding)
+2) The features variables are:
+- APPLICATION_TYPE (Alphabet Soup application)
+- AFFILIATION (sector of industry)
+- CLASSIFICATION (Gov't org classification)
+- USE_CASE (for funding)
+- ORGANIZATION (type)
+- STATUS (active)
+- INCOME_AMT (income class)
+- SPECIAL_CONSIDERATIONS (for application)
+- ASK_AMT (funding requested)
+3) The variables that should be removed are as they are neither targets nor features are: "EIN" and "NAME"
 
 **COMPILING, TRAINING and EVALUATING THE MODEL**
 
 4) 
-5) Selected #neurons because
-6) Steps taken to attempt to increase model performance were:
+5) No, I was not able to acheive the target model performance of 75%. The model
+ original: params=/model loss=0.5564/Accuracy=0.7254
+ change hidden layers: params= 3,911/model loss=0.5553/Accuracy=0.7251
+ change # nodes:params=9,601/model loss=0.5570/Accuracy=0.7249
+ change activation function:params=3291/model loss=0.5533/Accuracy=0.7243
 
-In conclusion, after three attempts, the ML model was still unable to attain 75% or higher accuracy, despite the steps of increasing hidden layers, # of nodes and activation functions to improve model performance.
+6) In conclusion, after three attempts, the ML model was still unable to attain 75% or higher accuracy, despite the steps of increasing hidden layers, # of nodes and activation functions to improve model performance.
 
 Possible Recommendations:
 -could further increase the number of hidden layers
