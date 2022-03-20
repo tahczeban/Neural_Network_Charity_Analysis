@@ -127,11 +127,11 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 4) Alterations to hidden layers, neurons and activation functions were completed as follows:
 
-   -changed the number of hidden layers from:
+   -changed the number of hidden layers from 2: to 4
    
-   - changed number of nodes from:
+   - changed number of nodes from 50, 20 to: 100, 50 (to attempt to increase perceptrons with weighted input connections                                               combinations)
 
-   - changed activation functions from: 
+   - changed activation functions from relu, relu to:sigmoid, linear
 
 5) No, I was not able to acheive the target model performance of 75%. The models created yielded the following parameters, model_loss and Accuracy:
 
