@@ -14,7 +14,8 @@ SOFTWARE: Jupyter Notebook, Python/VSC, Google Colab: Limitations of this challe
 ______________
 ***OVERVIEW:***
 
-In this challenge, a contribution to help Beks with investment placement predictions for Alphabet Soup is implemented with the utilization of ANN artificial neural network and Machine Learning (ML). Algorithms will be created to recognize what the patterns and features of input are and then give a quantitative output/binary classifier, in order to predict the success of the applicant if funded by Alphabet Soup. The steps necessary to complete this task are as follows:
+In this challenge, a contribution to help Beks with investment placement predictions for Alphabet Soup was implemented,  considering the utilization of artificial neural networks (ANN) and Machine Learning (ML). Algorithms were created to recognize what the patterns and features of input were and then give a quantitative output/binary classifier, in order to predict the success of the applicant, if funded by Alphabet Soup. The steps necessary to complete this task are as follows:
+
 1. Preprocess the data data
 2. compile, train and evaluate model
 3. then attempt to optimize it for improved accuracy
