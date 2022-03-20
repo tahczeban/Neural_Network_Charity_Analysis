@@ -132,9 +132,9 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
    -changed the number of hidden layers from 2: to 4 (to increase mathematical functions to attempt to improve output accuracy)
    
-   - changed number of nodes from 50, 20 to: 100, 50 (to attempt to increase perceptrons with weighted input connections combinations to improve accuracy)
+   -changed number of nodes from 50, 20 to: 100, 50 (to attempt to increase perceptrons with weighted input connections combinations to improve accuracy)
 
-   - changed activation functions from relu, relu to: sigmoid, linear (for attempted improved learning of patternsto improve output accuracy)
+   -changed activation functions from relu, relu to: sigmoid, linear (for attempted improved learning of patternsto improve output accuracy)
 
 5) No, I was not able to acheive the target model performance of 75%. The models created yielded the following parameters, model_loss and Accuracy:
 
@@ -148,13 +148,13 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 6) In conclusion, after three attempts, the ML model was still unable to attain 75% or higher accuracy, despite the steps of increasing hidden layers, # of nodes and activation functions to improve model performance.
 
-Possible Recommendations:
+ Possible Recommendations:
 
--could further increase the number of hidden layers
+  -could further increase the number of hidden layers
 
--possibly increase dataset size, if feasible
+  -possibly increase dataset size, if feasible
 
--try Random Forest Classifier with increaedto reduce potential for outlier influence
+  -try Random Forest Classifier with increaedto reduce potential for outlier influence
 
 _______________
 ***REFERENCES:***. BCS, Google, Stackoverflow, GitHub
