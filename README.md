@@ -60,7 +60,8 @@ Pandas was supposed to be utilized for this Deliverable for ML design with Tenso
 
                        FIGURE 4: Model evaluation
 
-<img width="1420" alt="DEL2-saved weights:5 epochs" src="https://user-images.githubusercontent.com/90135381/159174889-bf362d6e-0c91-4901-ad60-5fe9a1bff699.png">
+<img width="1440" alt="DEL2-weights:5epochs" src="https://user-images.githubusercontent.com/90135381/159183600-30005e26-bbd2-4f97-aa1e-fe160ea02e46.png">
+
 
                        FIGURE 5: Saved Weights/5 epochs       
 
