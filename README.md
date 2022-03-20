@@ -116,15 +116,15 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 **COMPILING, TRAINING and EVALUATING THE MODEL**
 
-4)Selected #neurons because
-5) I was not able to acheive target level performance
+4) 
+5) Selected #neurons because
 6) Steps taken to attempt to increase model performance were:
 
-In conclusion, after three attempts, still unable to attain 75% or higher accuracy
+In conclusion, after three attempts, the ML model was still unable to attain 75% or higher accuracy, despite the steps of increasing hidden layers, # of nodes and activation functions to improve model performance.
 
 Possible Recommendations:
-could increase hidden layers
-increase dataset size
-try Random Forest Classifier to reduce potential for outlier influence
+-could further increase the number of hidden layers
+-possibly increase dataset size, if feasible
+-try Random Forest Classifier to reduce potential for outlier influence
 _______________
 ***REFERENCES:***. BCS, Google, Stackoverflow, GitHub
