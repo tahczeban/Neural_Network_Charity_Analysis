@@ -146,15 +146,15 @@ For this last Deliverable an analysis of the ML model was complied with the foll
  
      change activation function:params=3291/model loss=0.5533/Accuracy=0.7243
 
-6) In conclusion, after three attempts, the ML model was still unable to attain 75% or higher accuracy, despite the steps of increasing hidden layers, # of nodes and activation functions to improve model performance.
+6) In conclusion, after three attempts, the ML model was still unable to attain 75% or higher accuracy, despite the steps of increasing hidden layers, #  of nodes and activation functions to improve model performance.
 
- Possible Recommendations:
+   Possible Recommendations:
 
-  -could further increase the number of hidden layers
+    -could further increase the number of hidden layers
 
-  -possibly increase dataset size, if feasible
+    -possibly increase dataset size, if feasible
 
-  -try Random Forest Classifier with increaedto reduce potential for outlier influence
+    -try Random Forest Classifier with increaedto reduce potential for outlier influence
 
 _______________
 ***REFERENCES:***. BCS, Google, Stackoverflow, GitHub
