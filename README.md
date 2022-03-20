@@ -19,9 +19,9 @@ ______________
 
 In this challenge, a contribution to help Beks with investment placement predictions for Alphabet Soup was implemented,  considering the utilization of artificial neural networks (ANN) and Machine Learning (ML). Algorithms were created to recognize what the patterns and features of input were and then give a quantitative output/binary classifier, in order to predict the success of the applicant, if funded by Alphabet Soup. The steps necessary to complete this task are as follows:
 
-1. Preprocess the data data
-2. compile, train and evaluate model
-3. then attempt to optimize it for improved accuracy
+1. Preprocess the data 
+2. Compile, train and evaluate model
+3. Then attempt to optimize it for improved accuracy
 4. Lastly compose a written analysis of the model
 
 
@@ -52,7 +52,7 @@ For this Deliverable, Pandas and Scikit-Learn's StandardScaler() were implemente
 
 ***DELIVERABLE 2: COMPILE, TRAIN, EVALUATE THE MODEL***
 
-Pandas was supposed to be utilized for this Deliverable for ML design with TensorFlow; however, there were complications with installation due to M1 processor incompatibility despite attempted resolutions from Stackoverflow; therefore, the same model design was completed on Google Colab (per instructional team suggestion). A predictive binary classification model was designed to determine success of Alphabet Soup funding based on features from the data. The number of features and nodes for each layer, as well as the activation functions. An output layer with it's associated activation function  was then created, model structure was checked, complied and training was introduced. A callback was created, saving the model's weights every 5 epochs and the model was evaluated (FIGURES:4-5). Finally, the results were exported to an HDF5 file and renamed.
+Pandas was supposed to be utilized for this Deliverable for ML design with TensorFlow; however, there were complications with installation due to M1 processor incompatibility despite attempted resolutions from Stackoverflow; therefore, the same model design was completed on Google Colab (per instructional team suggestion). A predictive binary classification model was designed to determine success of Alphabet Soup funding based on features from the data. The number of features and nodes for each layer, as well as the activation functions. An output layer with it's associated activation function  was then created, model structure was checked, compiled and training was introduced. A callback was created, saving the model's weights every 5 epochs and the model was evaluated (FIGURES:4-5). Finally, the results were exported to an HDF5 file and renamed.
 
 
 
@@ -68,6 +68,7 @@ Pandas was supposed to be utilized for this Deliverable for ML design with Tenso
 ***DELIVERABLE 3: OPTIMIZE THE MODEL***
 
 TensorFlow was utilized in order to attempt to optimize the model to attain a target predictive accuracy greater than 75%. Three attempts were made via:
+
 1. Changing the hidden layers (FIGURES: 6-7)
 2. Changing the # of nodes (FIGURES: 8-9)
 3. Changing activation functions (FIGURES: 10-11)
@@ -112,6 +113,7 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 
 1) The target variable is in: "IS_SUCCESSFUL" (which depicts if successful with Alphabet Soup funding)
 2) The features variables are:
+ 
 - APPLICATION_TYPE (Alphabet Soup application)
 - AFFILIATION (sector of industry)
 - CLASSIFICATION (Gov't org classification)
@@ -121,6 +123,7 @@ For this last Deliverable an analysis of the ML model was complied with the foll
 - INCOME_AMT (income class)
 - SPECIAL_CONSIDERATIONS (for application)
 - ASK_AMT (funding requested)
+
 3) The variables that should be removed are as they are neither targets nor features are: "EIN" and "NAME"
 
 **COMPILING, TRAINING and EVALUATING THE MODEL:**
