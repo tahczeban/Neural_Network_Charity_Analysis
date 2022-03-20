@@ -23,12 +23,12 @@ In this challenge,
  compile, train and evaluate model, then attempt to optimize it for improved accuracy
  <img width="1423" alt="DEL1-counts of APPLICATION_TYPE" src="https://user-images.githubusercontent.com/90135381/159174868-b1404df2-76f7-4deb-b979-cc2a54099553.png">
 
-                           FIGURE 1: Counts of "APPLICATION_TYPE"
+                      FIGURE 1: Counts of "APPLICATION_TYPE"
 
 
  <img width="1407" alt="DEL1-counts of CLASSIFICATION" src="https://user-images.githubusercontent.com/90135381/159174870-00f748b7-d1ed-4674-b126-3abea486c575.png">
  
-                           FIGURE 2: Counts of "CLASSIFICATION"
+                      FIGURE 2: Counts of "CLASSIFICATION"
 
 ______________
 ***RESULTS:***
@@ -39,46 +39,46 @@ ______________
 
 <img width="1378" alt="DEL1-DF" src="https://user-images.githubusercontent.com/90135381/159174876-27c861d8-117a-485c-90d4-6a38eb667005.png">
 
-                                           FIGURE 3: DataFrame
+                       FIGURE 3: DataFrame
 
 ***DELIVERABLE 2: COMPILE, TRAIN, EVALUATE THE MODEL***
 <img width="1411" alt="DEL2-model evaluation" src="https://user-images.githubusercontent.com/90135381/159174883-cfd5c259-57b6-4ea8-a888-ec7ffabcb750.png">
 
-                                           FIGURE 4: Model evaluation
+                       FIGURE 4: Model evaluation
 
 <img width="1420" alt="DEL2-saved weights:5 epochs" src="https://user-images.githubusercontent.com/90135381/159174889-bf362d6e-0c91-4901-ad60-5fe9a1bff699.png">
 
-                                           FIGURE 5: Saved Weights/5 epochs       
+                       FIGURE 5: Saved Weights/5 epochs       
 
 ***DELIVERABLE 3: OPTIMIZE THE MODEL***
 
 <img width="1431" alt="DEL3-1change hidden layers" src="https://user-images.githubusercontent.com/90135381/159175470-9ea6a35b-7564-4e81-9662-c4420ed9d51a.png">
 
-                                           FIGURE 6: Change Hidden Layers
+                        FIGURE 6: Change Hidden Layers
 
 <img width="1440" alt="DEL3-1 accuracy" src="https://user-images.githubusercontent.com/90135381/159175479-c4b9cf33-a9f0-43c6-8b1d-b70f5f15cffa.png">
 
 
-                                           FIGURE 7: Accuracy/Loss
+                        FIGURE 7: Accuracy/Loss
 
 <img width="1431" alt="DEL3-2change nodes" src="https://user-images.githubusercontent.com/90135381/159175490-737b9a55-71f3-44d7-81e9-1dff2c4af053.png">
 
 
-                                           FIGURE 8: Change # Nodes
+                        FIGURE 8: Change # Nodes
 
 <img width="1440" alt="DEL3-2" src="https://user-images.githubusercontent.com/90135381/159175496-4c5273e9-98d0-498f-8b0d-4291ec390a39.png">
 
-                                           FIGURE 9: Accuracy/Loss
+                        FIGURE 9: Accuracy/Loss
 
 
 <img width="1431" alt="DEL3-3change activation fxn" src="https://user-images.githubusercontent.com/90135381/159175520-76bcb424-bdf1-486c-80ff-704dcb6ca54f.png">
 
-                                           FIGURE 10: Change Activation Function
+                         FIGURE 10: Change Activation Function
 
 
 <img width="1421" alt="DEL3-3" src="https://user-images.githubusercontent.com/90135381/159175523-951fcc25-611d-4520-8911-3453aa85a4bb.png">
 
-                                           FIGURE 11: Accuracy/Loss
+                         FIGURE 11: Accuracy/Loss
 
 _______________
 ***DELIVERABLE 4: WRITTEN REPORT/SUMMARY****
