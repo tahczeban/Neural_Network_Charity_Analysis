@@ -23,12 +23,12 @@ In this challenge,
  compile, train and evaluate model, then attempt to optimize it for improved accuracy
  <img width="1423" alt="DEL1-counts of APPLICATION_TYPE" src="https://user-images.githubusercontent.com/90135381/159174868-b1404df2-76f7-4deb-b979-cc2a54099553.png">
 
-                                            FIGURE 1: Counts of "APPLICATION_TYPE"
+                           FIGURE 1: Counts of "APPLICATION_TYPE"
 
 
  <img width="1407" alt="DEL1-counts of CLASSIFICATION" src="https://user-images.githubusercontent.com/90135381/159174870-00f748b7-d1ed-4674-b126-3abea486c575.png">
  
-                                            FIGURE 2: Counts of "CLASSIFICATION"
+                           FIGURE 2: Counts of "CLASSIFICATION"
 
 ______________
 ***RESULTS:***
