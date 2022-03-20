@@ -71,7 +71,10 @@ TensorFlow was utilized in order to attempt to optimize the model to attain a ta
 1. Changing the hidden layers (FIGURES: 6-7)
 2. Changing the # of nodes (FIGURES: 8-9)
 3. Changing activation functions (FIGURES: 10-11)
- 
+
+A callback was again created to save the weights every 5 epochs and the results were exported to an HDF5 file as AlphabetSoupCharity_Optimization.h5.
+
+
 <img width="1431" alt="DEL3-1change hidden layers" src="https://user-images.githubusercontent.com/90135381/159175470-9ea6a35b-7564-4e81-9662-c4420ed9d51a.png">
 
                         FIGURE 6: Change Hidden Layers
@@ -103,14 +106,19 @@ TensorFlow was utilized in order to attempt to optimize the model to attain a ta
 _______________
 ***DELIVERABLE 4: WRITTEN REPORT/SUMMARY****
 
-In conclusion, after three attempts, still unable to attain 75% or higher accuracy
+For this last Deliverable an analysis of the ML model was complied with the following 6 considerations:
 
+##DATA PREPROCESSING
 1) target variables= "IS_SUCCESSFUL"
 2)feature variables= the other columns: APPLICATION_TYPE, CLASSIFICATION, AFFILIATION, ORGANIZATION. STSTUS, INCOME_AMT, ASK_AMT
 3)Neither targets nor feratures and should be removed
+
+##COMPILING, TRAINING and EVALUATING THE MODEL
 4)Selected #neurons because
 5) I was not able to acheive target level performance
 6) Steps taken to attempt to increase model performance were:
+
+In conclusion, after three attempts, still unable to attain 75% or higher accuracy
 
 Recommendations:
 could increase hidden layers
